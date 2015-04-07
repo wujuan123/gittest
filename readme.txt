@@ -18,9 +18,13 @@ remade--3wj
 
 remade--fork
 
+<<<<<<< HEAD
 remade--fork2
 
 
 
 remade -- fork3
 
+=======
+remade--fork2
+>>>>>>> parent of 9c7a074... f3
